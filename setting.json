@@ -1,0 +1,34 @@
+{
+    "AutoJoinCancel": true,
+    "Leave": {},
+    "Members": 1,
+    "autoAdd": false,
+    "autoAddMessage": "Halo @!, terimakasih telah menambahkan saya sebagai teman :3",
+    "autoJoin": false,
+    "autoJoinMessage": "Halo @!, makasih sudah invite saya",
+    "autoJoinTicket": false,
+    "autoLike": "Auto",
+    "autoRead": false,
+    "autoRespon": true,
+    "autoResponMessage": "Ciee @! jomblo ya tag tag bot :v",
+    "changeGroupPicture": [],
+    "changePictureProfile": true,
+    "checkContact": false,
+    "checkPost": false,
+    "checkSticker": false,
+    "detectUnsend": false,
+    "keyCommand": "@",
+    "memberscancel": 15,
+    "mention": "Sini gabung chat 􀂌",
+    "mimic": {
+        "status": true,
+        "target": {}
+    },
+    "myProfile": {
+        "coverId": "",
+        "displayName": "",
+        "pictureStatus": "",
+        "statusMessage": ""
+    },
+    "setKey": false
+}
